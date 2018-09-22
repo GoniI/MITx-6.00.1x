@@ -1,3 +1,5 @@
+#Assume s is a string of lower case characters.
+#Write a program that prints the longest substring of s in which the letters occur in alphabetical order. 
 s = 'gvrmyrtxhtknpb'
 count = 0
 maxc = 0
