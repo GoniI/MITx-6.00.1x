@@ -42,5 +42,7 @@ while True:
         user = raw_input("")
         if user != 'h' and user != 'l' and user != 'c':
             print ("Sorry, I did not understand your input.")
+	    print ("Is your secret number {}".format(num))
+            print ("Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly.")
         else:
             break
