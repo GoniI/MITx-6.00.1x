@@ -1,2 +1,3 @@
-# pset-1
-MITx:6.00.1x
+# psets and exercises from MITx:6.00.1x
+Introduction to Computer Science and Programming Using Python
+
